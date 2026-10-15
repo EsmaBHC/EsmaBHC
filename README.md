@@ -22,7 +22,7 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Esma Bouhouche**, a fifth-year Computer Science Engineering student specializing in **Ingénierie des Systèmes Informatiques (ISI)** at the École Supérieure d'Informatique de Sidi Bel Abbès (ESI-SBA), Algeria.
+Hi! I'm **Esma Bouhouche**, a fifth-year Computer Science Engineering student specializing in **Ingénierie des Systèmes Informatiques (ISI)** at Higher School of Computer Science - Sidi Bel Abbès (ESI-SBA), Algeria.
 
 I'm interested in building intelligent systems that connect software, hardware, and data — from microcontrollers and sensors to backend services and real-time monitoring dashboards.
 
@@ -63,8 +63,7 @@ I'm interested in building intelligent systems that connect software, hardware, 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=reactjs&logoColor=white" alt="React.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB"/>
 </p>
@@ -74,11 +73,11 @@ I'm interested in building intelligent systems that connect software, hardware, 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
 </p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -103,25 +102,9 @@ An academic project combining embedded hardware, sensor data, and web technologi
 
 🔗 [Explore my repositories](https://github.com/EsmaBHC?tab=repositories)
 
-### 💼 Web-Based Job Research Platform
-An academic web development project designed to facilitate job searching through a web interface.
-
-- Implements a user-facing interface for job-related information.
-- **Technologies:** HTML, CSS, JavaScript.
-
-### 🎓 University Overtime Management Platform
-A web application developed to support the management and calculation of university teachers' overtime hours.
-
-- Focuses on application structure, requirements, and system design.
-- **Technologies:** Next.js.
-
 ---
 
-## 🏆 Activities & Achievements
 
-- 🌏 **Huawei Seeds for the Future 2026** — Selected participant for the China Phase of Huawei's technology and digital skills development program.
-- 🎓 **ESI-SBA** — Computer Science Engineering student specializing in ISI.
-- 🤝 **Ingeniums Club** — Member during the 2023–2024 academic year.
 
 ---
 
